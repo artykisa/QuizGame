@@ -1,6 +1,3 @@
 # QuizGame
 ## C#/Windows Forms/MySQL project
-## Here is 3 directories 
-## 1)Server for login
-## 2)Server for game
-## 3)Client
+## Here is 3 directories. The first is Server for login, the second is Server for game and the third is client
