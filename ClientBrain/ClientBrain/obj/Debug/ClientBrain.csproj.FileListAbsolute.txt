@@ -1,0 +1,13 @@
+C:\C#\ClientBrain\ClientBrain\bin\Debug\ClientBrain.exe.config
+C:\C#\ClientBrain\ClientBrain\bin\Debug\ClientBrain.exe
+C:\C#\ClientBrain\ClientBrain\bin\Debug\ClientBrain.pdb
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.csprojAssemblyReference.cache
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.Form1.resources
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.Properties.Resources.resources
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.csproj.GenerateResource.cache
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.exe
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.pdb
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.csproj.CoreCompileInputs.cache
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.Login.resources
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.Menu.resources
+C:\C#\ClientBrain\ClientBrain\obj\Debug\ClientBrain.Profile.resources
